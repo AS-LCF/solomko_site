@@ -1,1 +1,1 @@
-# sanya-site
+# solomko-site
